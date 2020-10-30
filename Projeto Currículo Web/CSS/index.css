@@ -1,0 +1,34 @@
+body {
+  background-color: #f7f7f7;
+}
+
+.primeira {
+  text-align: center;
+}
+header {
+  font-size: 40px;
+  font-style: bold;
+  font-family: sans-serif;
+}
+
+#fotocv {
+  border-radius: 100%;
+  max-width: 200px;
+  margin-left: 20px;
+  border: 1px solid black;
+}
+
+.segunda {
+  text-align: center;
+}
+.primeiraLista {
+  display: inline-block;
+}
+
+.terceira {
+  text-align: center;
+}
+
+.segundaLista {
+  display: inline-block;
+}
